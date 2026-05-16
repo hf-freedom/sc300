@@ -1,0 +1,10 @@
+server:
+  port: 8005
+
+spring:
+  application:
+    name: cleaning-scheduling
+
+logging:
+  level:
+    com.cleaning: DEBUG
